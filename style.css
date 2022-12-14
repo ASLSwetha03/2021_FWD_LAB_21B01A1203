@@ -1,0 +1,19 @@
+div{
+    height:auto;
+    width: 400px;
+    border:2px solid black;
+    margin:auto;
+    padding: 15px;
+}
+
+#btn{
+    margin-left: 175px;
+    padding:5px;
+    color:white;
+    background-color: green;
+    border:1px solid black;
+    border-radius:8px;
+}
+h1{
+    margin-left:30px;
+}
